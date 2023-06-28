@@ -114,4 +114,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 - [Education community forum](https://education.github.community/)
 - [GitHub community forum](https://github.community/)
 
-Maijs is a hidden ninja of the leaf.
+<!-- Maijs is a hidden ninja of the leaf. -->
+
+Maijs has another thesis, that I can't do that.

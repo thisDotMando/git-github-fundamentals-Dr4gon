@@ -177,3 +177,5 @@ Blubb
 It's he who's name should not be spoken
 
 When he was younger, he befriended Albus Dumbledore.
+
+His new name is Voldemort

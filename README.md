@@ -135,3 +135,24 @@ Dattebayo!
 > If you don't like the hand that fate's dealt you with, fight for a new one.
 >
 > -- Naruto Uzumaki
+
+\*\*\*\*\*\*\*\*\*\*
+
+^ Stash of shurikens
+
+Storing chakra....
+
+```
+[          ] 0%
+[-         ] 10%
+[--        ] 20%
+[---       ] 30%
+[----      ] 40%
+[-----     ] 50%
+[------    ] 60%
+[-------   ] 70%
+[--------  ] 80%
+[--------- ] 90%
+[----------] 100%
+stored!
+```

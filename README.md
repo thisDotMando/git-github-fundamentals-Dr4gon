@@ -124,6 +124,41 @@ Add another change
 
 Rebase changes
 
+Anam is hungry
+
+havoc havoc havoc
+
+Don't know what to write
+
+Dattebayo!
+
+> If you don't like the hand that fate's dealt you with, fight for a new one.
+>
+> -- Naruto Uzumaki
+
+\*\*\*\*\*\*\*\*\*\*
+
+^ Stash of shurikens
+
+Storing chakra....
+
+```
+[          ] 0%
+[-         ] 10%
+[--        ] 20%
+[---       ] 30%
+[----      ] 40%
+[-----     ] 50%
+[------    ] 60%
+[-------   ] 70%
+[--------  ] 80%
+[--------- ] 90%
+[----------] 100%
+stored!
+```
+
+coffee beans for Anam
+
 Add Ninjutus for Maijs
 
 Gift Anam a french press deluxe for awesome coffee

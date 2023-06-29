@@ -181,3 +181,5 @@ When he was younger, he befriended Albus Dumbledore.
 His new name is Voldemort
 
 His followers are clouds of darkness
+
+Gryffindor has plot armor, so we win every time

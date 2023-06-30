@@ -167,3 +167,29 @@ Marvin is our Hadrid
 
 Git is confusing!
 Trying to have a lot of merge conflicts
+
+Go nuts everyone
+
+Let's do it
+
+Blubb
+
+It's he who's name should not be spoken
+
+When he was younger, he befriended Albus Dumbledore.
+
+His new name is Voldemort
+
+His followers are clouds of darkness
+
+Gryffindor has plot armor, so we win every time
+
+Git Control Flow is a pain in the butt :clown:
+
+a new commit done by Marvin
+a second commit done by Marvin
+a THIRD commit done by Marvin
+....
+a hundredth commit done by marvin
+
+I am trying to break the merge
